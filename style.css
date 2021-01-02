@@ -1,0 +1,32 @@
+body{
+    background: black;
+}
+
+
+div{
+    width: 650px;
+    height: 435px;
+    margin: auto;
+    background: white;
+    margin-top: 50px;
+}
+p,
+h3{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p {
+    margin-top: -10px;
+}
+#gorsel{
+    margin-left: 20px;
+    
+}
+#porta{
+    padding-top: 8px;
+    text-align: center;
+}
+#pson{
+    color: white;
+    text-align: center;
+}
